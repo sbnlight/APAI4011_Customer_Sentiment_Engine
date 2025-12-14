@@ -1,9 +1,5 @@
 # APAI4011_Customer_Sentiment_Engine
 
-========================================================================
-   Market Insight & Engagement Chatbot - Project README
-========================================================================
-
 1. PROJECT OVERVIEW
 -------------------
 This project is a RAG (Retrieval-Augmented Generation) based chatbot designed to assist startups. 
