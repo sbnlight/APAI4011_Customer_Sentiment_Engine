@@ -22,7 +22,7 @@ Key features:
 [Data Folders]
 - chroma_db/                    : Pre-built vector database (The "Brain" memory).
 - data_with_sentiment_score/    : Processed CSV files with weighted scores.
-- categories_data_small/        : Raw scraped data.
+- categories_data_big/        : Raw scraped data.
 
 3. PREREQUISITES
 -------------------
